@@ -1,0 +1,38 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings (if using VSCode)
+.vscode/
+
+# PyInstaller build directories
+build/
+dist/
+*.spec
+
+# Excel output files
+*.xlsx
+
+# Log files
+*.log
+
+# Environment variables (if using)
+.env
+
+# ChromeDriver logs (if any)
+chromedriver.log

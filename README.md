@@ -2,7 +2,7 @@
 
 A robust **Python GUI application** built with **Tkinter** and **Selenium** to automate the process of verifying Purchase Orders (POs) from an ERP system.
 
-This tool checks if the **billed amount** is less than the **total PO amount**, skipping unwanted POs, and exports discrepancies to an Excel file. It comes with a **user-friendly GUI** and real-time logging.
+This tool exports discrepancies to an Excel file. It comes with a **user-friendly GUI** and real-time logging.
 
 ---
 
